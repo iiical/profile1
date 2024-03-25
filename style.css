@@ -1,0 +1,41 @@
+h1 {
+  color: aqua;
+}
+body {
+  background-color: rgb(243, 242, 245);
+}
+p {
+  color: rgb(35, 43, 43);
+  font-size: 30px;
+  background-color: rgb(22, 195, 208);
+}
+
+.tetot {
+  font-size: 50px;
+  font-style: italic;
+}
+#unit1 {
+  color: rgb(5, 5, 5);
+}
+
+#meta_sekarang {
+  color: rgb(18, 19, 19);
+  font-style: italic;
+}
+.kotak {
+  width: 300px;
+  height: 200px;
+  padding: 20px;
+  border: 10px solid rgb(22, 184, 155);
+  margin: 20px;
+}
+.display {
+  display: block;
+  background-color: aqua;
+  color: black;
+}
+.display2 {
+  display: inline;
+  background-color: aqua;
+  color: black;
+}
